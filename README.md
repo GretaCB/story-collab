@@ -7,7 +7,7 @@ Each directory is a "Story" (in quotes, since "Story" can mean many things).
 ### To create a new story:
 - Peruse current issues for story ideas
 - Create a new directory, name it the title of the story
-- Create a new Markdown (`.md`) file, name it the title of the story
+- Create a new [Markdown (`.md`)](https://guides.github.com/features/mastering-markdown/) file, name it the title of the story
 
 Have an idea for the beginning of a Story?
 
@@ -17,7 +17,7 @@ Add a ticket to suggest your idea!
 
 ### To collaborate on an already-existing story:
 - Fork the repo
-- Make edits to a story's already-existing `.md` file. Add to the story where the last contributor left off.
+- Make edits to a story's already-existing [Markdown (`.md`)](https://guides.github.com/features/mastering-markdown/) file. Add to the story where the last contributor left off.
 
 # Story Guidelines
 Here are some general guidelines that will help you build upon the amazing imagination of others and keep the stories going. Many of these guidelines are based off the [rules of improv](http://improvencyclopedia.org/references/5_Basic_Improv_Rules.html). Also see [Tina Fey's basics of improv](https://www.youtube.com/watch?v=NmafmRIeet0).
@@ -38,4 +38,4 @@ Details are more interesting, they also give future contributors great content t
 #### Add images/gifs/wikipedia links/other media as necessary
 Feel free to get creative :tada:
 
-#### Please avoid anything [NSFW](http://www.urbandictionary.com/define.php?term=NSFW)
+#### Please avoid anything [NSFW](http://www.urbandictionary.com/define.php?term=NSFW) (links to Urban Dictionary definition of "NSFW")
