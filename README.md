@@ -2,12 +2,14 @@
 This repo is meant for Collaborative Storytelling. 
 Each directory is a "Story" (in quotes, since "Story" can mean many things).
 
+It's kinda like that game where everyone sits in a circle, and someone starts the story with a sentence. Rotating around the circle, everyone takes a turn contributing a new piece to the story.
+
 # What do I do?
 
 ### To create a new story:
 - Peruse current issues for story ideas
-- Create a new directory, name it the title of the story
-- Create a new [Markdown (`.md`)](https://guides.github.com/features/mastering-markdown/) file, name it the title of the story
+- Create a new directory, and name it the title of the story
+- Create a new [Markdown (`.md`)](https://guides.github.com/features/mastering-markdown/) file, and name it the title of the story
 
 Have an idea for the beginning of a Story?
 
