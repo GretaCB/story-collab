@@ -1,5 +1,5 @@
 # What is this?
-This repo is meant for Collaborative Storytelling. 
+This repo is meant for Collaborative Storytelling.
 Each directory is a "Story" (in quotes, since "Story" can mean many things).
 
 It's kinda like that game where everyone sits in a circle, and someone starts the story with a sentence. Rotating around the circle, everyone takes a turn contributing a new piece to the story.
@@ -41,3 +41,5 @@ Details are more interesting, they also give future contributors great content t
 Feel free to get creative :tada:
 
 #### Please avoid anything [NSFW](http://www.urbandictionary.com/define.php?term=NSFW) (links to Urban Dictionary definition of "NSFW")
+
+Hi
